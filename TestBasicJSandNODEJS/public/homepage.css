@@ -1,0 +1,170 @@
+.body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.body-dark{
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+.nav-bar{
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.nav1{
+  position: absolute;
+  font-size: 30px;
+}
+.nav2{
+  margin-left: 830px;
+  margin-top: 10px;
+  font-size: 19px;
+  position: absolute;
+}
+.nav3{
+  margin-left: 930px;
+  margin-top: 10px;
+  font-size: 19px;
+  position: absolute;
+}
+.nav4{
+  margin-left: 1030px;
+  margin-top: 10px;
+  font-size: 19px;
+  position: absolute;
+}
+.resized-image {
+  margin-left: 1150px;
+  width: 90px; /* กำหนดความกว้าง */
+  height: auto; /* รักษาสัดส่วน */
+  cursor: pointer;
+}
+
+  
+
+.fs-4{
+    color: rgb(0, 0, 0);
+}
+.line-nav {
+    color: #414040;
+      height: 0px; /* ความสูงของเส้นตรง (ความหนา) */
+      width: 95%;
+      margin-top: 10px; /* ระยะห่างบนและล่างของเส้นตรง */
+      
+  }
+.bt1{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 150px; /* กำหนดความกว้างของปุ่ม */
+    height: 40px; /* กำหนดความสูงของปุ่ม */
+    background-color: #eeeded;
+    border-radius: 5px;
+    position: absolute;
+    cursor: pointer; 
+}
+.cc{
+    width: 150px; /* กำหนดความกว้างของปุ่ม */
+    height: 40px; /* กำหนดความสูงของปุ่ม */
+    background-color: #eeeded;
+    border-radius: 5px;
+    margin-left: 210px;
+    cursor: pointer; 
+   
+}
+.bt2{
+    width: 150px; /* กำหนดความกว้างของปุ่ม */
+    height: 40px; /* กำหนดความสูงของปุ่ม */
+    background-color: #eeeded;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 50px;
+    cursor: pointer; 
+    
+}
+.yourpost-now {
+    width: 800px; /* กำหนดความกว้างของกรอบสี่เหลี่ยม */
+    height: 150px; /* กำหนดความสูงของกรอบสี่เหลี่ยม */
+    background-color: #eeeded; /* สีพื้นหลังของกรอบสี่เหลี่ยม */
+    border: 2px solid #000000; /* สีและขนาดของเส้นขอบ */
+    border-radius: 8px; /* กำหนดขนาดของมุมของกรอบสี่เหลี่ยม */
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px; /* ระยะห่างภายในกรอบสี่เหลี่ยม */
+    position: relative;
+    display: none;
+  
+  }
+ .yourpost-now-play {
+  color: #000000;
+    width: 800px; /* กำหนดความกว้างของกรอบสี่เหลี่ยม */
+    height: 150px; /* กำหนดความสูงของกรอบสี่เหลี่ยม */
+    background-color: #eeeded; /* สีพื้นหลังของกรอบสี่เหลี่ยม */
+    border: 2px solid #080808; /* สีและขนาดของเส้นขอบ */
+    border-radius: 8px; /* กำหนดขนาดของมุมของกรอบสี่เหลี่ยม */
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px; /* ระยะห่างภายในกรอบสี่เหลี่ยม */
+    position: relative;
+    display: block;
+  }
+ 
+  .en{
+    padding-left: 37%;
+
+  }
+  .postnow{
+    width: 90%;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 10px;
+  }
+.box-post {
+   color: #000000;
+    width: 800px; /* กำหนดความกว้างของกรอบสี่เหลี่ยม */
+    height: 150px; /* กำหนดความสูงของกรอบสี่เหลี่ยม */
+    background-color: #eeeded; /* สีพื้นหลังของกรอบสี่เหลี่ยม */
+    border: 2px solid #000000; /* สีและขนาดของเส้นขอบ */
+    border-radius: 8px; /* กำหนดขนาดของมุมของกรอบสี่เหลี่ยม */
+    margin-left: 30px;
+    margin-top: 100px;
+    padding: 10px; /* ระยะห่างภายในกรอบสี่เหลี่ยม */
+    position: relative;
+  }
+  .line-post {
+    height: 1px; /* ความสูงของเส้นตรง (ความหนา) */
+    background-color: #414040; /* สีของเส้นตรง */
+    margin: 10px 0; /* ระยะห่างบนและล่างของเส้นตรง */
+}
+.vertical-line{
+  margin-top: 67px;
+    border-left: 1px solid #bebebe; /* สีและขนาดของเส้นตรง */
+    height: 100%; /* ความยาวของเส้นตรง */
+    
+    margin-left: 300px;
+
+    position: absolute;
+    top: 7px;
+    right: 430px;
+
+}
+.Ypost{
+    position: absolute;
+    top: 80px;
+    right: 180px;
+    font-size: 20px;
+}
+.your-post {
+  color: #000000;
+    width: 350px; /* กำหนดความกว้างของกรอบสี่เหลี่ยม */
+    height: 150px; /* กำหนดความสูงของกรอบสี่เหลี่ยม */
+    background-color: #eeeded; /* สีพื้นหลังของกรอบสี่เหลี่ยม */
+    border: 2px solid #000000; /* สีและขนาดของเส้นขอบ */
+    border-radius: 8px; /* กำหนดขนาดของมุมของกรอบสี่เหลี่ยม */
+    position: absolute;
+    top: 150px;
+    right: 25px;
+    padding: 10px;
+  }
+text{
+  color: aqua;
+}
